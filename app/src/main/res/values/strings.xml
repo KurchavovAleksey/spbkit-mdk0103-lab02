@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab02Converter</string>
+    <string name="text_to">To:</string>
+    <string name="text_from">From:</string>
+    <string name="text_button_convert">Convert</string>
+    <string name="text_error_incorrect_value">Error: incorrect value</string>
+    <string name="distance">Distance</string>
+    <string name="pressure">Pressure</string>
+    <string name="mass">Mass</string>
+    <string name="author_string">Курчавов Алексей 204 группа СПБКИТ</string>
+</resources>
